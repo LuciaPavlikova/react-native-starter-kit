@@ -5,5 +5,7 @@
     "slug": "react-native-starter-kit",
     "icon": "src/images/app-icon.png",
     "privacy": "public"
-  }
+  },
+  "name": "rnsk",
+  "displayName": "React Native Starter Kit"
 }
